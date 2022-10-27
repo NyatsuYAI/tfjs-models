@@ -1,3 +1,6 @@
+
+# For nyatsu
+[pose-estimation link](https://github.com/NyatsuYAI/tfjs-models/tree/master/pose-detection)
 # Pre-trained TensorFlow.js models
 
 This repository hosts a set of pre-trained models that have been ported to
